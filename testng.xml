@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Weight Watchers">
+    <test name="Test">
+        <classes>
+            <class name="TC01"/>
+        </classes>
+    </test>
+</suite>
